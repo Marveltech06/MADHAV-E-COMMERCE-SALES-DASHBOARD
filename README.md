@@ -1,5 +1,6 @@
 # MADHAV-E-COMMERCE-SALES-DASHBOARD
 This project showcases an interactive Power BI dashboard that analyzes e-commerce sales performance. It highlights key metrics such as sales, profit, quantity, customer behavior, product categories, payment modes, and monthly trends, helping stakeholders make informed, data-driven business decisions.
+![](E-Commerce.jpg)
 # Introduction
 In today’s competitive e-commerce landscape, data-driven decision-making is essential for business growth. Organizations need clear visibility into their sales performance, customer behavior, and product profitability.
 This project uses Power BI to transform raw sales data into a visually appealing dashboard that provides a 360-degree view of business performance.
@@ -35,7 +36,9 @@ This project uses Power BI to transform raw sales data into a visually appealing
 - Added a date hierarchy for month and quarter analysis
 - Applied data modeling and relationship creation (fact and dimension tables)
 ## Dashboard Features
-The dashboard includes:
+![](Dashboard.png)
+[Interact with the live Dashbaord here](https://app.powerbi.com/groups/me/reports/60e76bed-6d68-48da-92c5-ec6ec580e63c/5bdd99cb22c2ddaea566?experience=power-bi)
+#### The dashboard includes:
 ✔️ Key Metrics (KPIs)
 - 438K – Total Sales Amount
 - 37K – Total Profit
@@ -111,4 +114,11 @@ Printers and electronics accessories are highly profitable — more marketing in
 - Loyalty discounts
 - Personalized emails
 - Exclusive offers
+
+## 👨‍💻 Author
+### Folagbade Olatunbosun Samuel
+- 💼 LinkedIn:https://www.linkedin.com/in/olatunbosun-folagbade-559151243/
+- 📧 Email:Folagbadeolatunbosun@gmail.com
+
+
 
